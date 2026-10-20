@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webpage Crawler"
+  short_description: "Inspect pages and automate browser tasks"
+  default_prompt: "Use $webpage-crawler to inspect this webpage and carry out my plain-English instructions."
